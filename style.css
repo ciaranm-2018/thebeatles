@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
+header {
+    margin: 0;
+}
+
+.heading{
+    margin-left: 50px;
+}
+
+#nav {
+    margin: 0;
+}
+
+#nav li {
+    padding: 0;
+    
+}
+
+
+
+.ul-menu-color-home {
+    background-color: #780EDD;
+}
+.ul-menu-color-music {
+    background-color: #0CD4E7;
+}
+
+.ul-menu-color-tour {
+    background-color: #E7910F;
+}
+
+.ul-menu-color-bookings {
+    background-color: #6CD000;
+}
+
+
+.container-fluid{
+    background-color: #ffffff;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.row-table{
+    display: table;
+    background-color: #525252;
+}
+
+
+.menuitem {
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a{
+    width: 100%;
+    text-decoration: none;
+    color: #ffffff;
+    height: 120px;
+}
+
+.menuitem a i{
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+
+.menuitem span{
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+/*......................................hover.css*/
+
+.hvr-sweep-to-bottom:before {
+    background: rgba(0,0,0,0.1);
+    height: 120px;
+}
+
+
